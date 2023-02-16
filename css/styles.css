@@ -7,6 +7,15 @@ h1{
     padding-bottom: 5%;
 }
 
+h3{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f8f;
+}
+
 #title{
     background-color: #ff4c68;
     color: white;
@@ -53,4 +62,24 @@ body{
 .title-image{
     width: 60%;
     transform: rotate(15deg);
+}
+
+/* Features Section */
+
+#features{
+    padding: 7% 15% ;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172; 
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
 }
