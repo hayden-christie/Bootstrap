@@ -1,2 +1,1 @@
-TinDog Starting Files
-https://hayden-christie.github.io/Bootstrap-tindog/
+TinDog Website: https://hayden-christie.github.io/Bootstrap-tindog/
